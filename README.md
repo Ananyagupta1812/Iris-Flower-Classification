@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Iris Flower Classification</title>
-</head>
 <body>
     <h1>Iris Flower Classification</h1>
     
